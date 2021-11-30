@@ -46,6 +46,7 @@ namespace SF.ITOG_13_6.TASK2
             {
                 Console.WriteLine("'{0}' - {1} шт.", wd.Key, wd.Value);
             }
+
             Console.ReadKey();
         }
     }
